@@ -1,3 +1,5 @@
+* Artigo original -> https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript 
+
 # Começando com fetch no Javascript
 
 Atualmente a pessoa que fez a compra precisa preencher todos os campos de maneira correta para que haja validação e a compra seja finalizada com sucesso.
